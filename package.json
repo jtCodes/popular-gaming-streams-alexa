@@ -1,0 +1,12 @@
+{
+  "name": "twitch featured streams",
+  "version": "1.0.0",
+  "description": "Find out what is trending on twitch",
+  "main": "index.js",
+  "author": "JT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "bluebird": "^3.5.0",
+    "promise": "^8.0.1"
+  }
+}
